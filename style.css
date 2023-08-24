@@ -1,0 +1,28 @@
+body {
+	font-family: Calibri;
+	color: darkslategrey;
+}
+
+.main {
+	font-size: 18px;
+	margin: 150px;
+}
+
+a {
+	color: #2499db;
+}
+
+table {
+	border: 1px solid lightgray;
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid lightgray;
+	padding: 10px;
+}
+
+th {
+	border: 1px solid lightgray;
+	padding: 10px;
+}
